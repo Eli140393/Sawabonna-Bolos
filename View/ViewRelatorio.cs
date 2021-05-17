@@ -278,21 +278,21 @@ namespace View
             else if (cbSelecioneData.Text.Equals("Últimos 7 dias"))
             {
                  fromDate = DateTime.Today.AddDays(-7);
-                 toDate = DateTime.Now.AddMinutes(+60); ;
+                 toDate = DateTime.Now.AddMinutes(+60); 
 
                 getRelatorioVendas(fromDate, toDate);
             }
             else if (cbSelecioneData.Text.Equals("Este mês"))
             {
                  fromDate = new DateTime(DateTime.Now.Year, DateTime.Now.Month, 1);
-                 toDate = DateTime.Now.AddMinutes(+60); ;
+                 toDate = DateTime.Now.AddMinutes(+60);
 
                 getRelatorioVendas(fromDate, toDate);
             }
             else if (cbSelecioneData.Text.Equals("Este ano"))
             {
                  fromDate = new DateTime(DateTime.Now.Year, 1, 1);
-                 toDate = DateTime.Now.AddMinutes(+60); ;
+                 toDate = DateTime.Now.AddMinutes(+60);
 
                 getRelatorioVendas(fromDate, toDate);
             }
@@ -300,7 +300,7 @@ namespace View
             {
 
                  fromDate = DateTime.Today.AddDays(-30);
-                 toDate = DateTime.Now.AddMinutes(+60); ;
+                 toDate = DateTime.Now.AddMinutes(+60) ;
 
                 getRelatorioVendas(fromDate, toDate);
             }
