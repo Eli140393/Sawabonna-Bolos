@@ -390,6 +390,7 @@ namespace View
                         else
                         {
                             myInsumo = new ControlInsumo(txtCodigoInsumo.Text, txtNomeInsumo.Text, cbArmazenamentoInsumo.Text, txtPrecoInsumo.Text);
+
                             resp = myInsumo.DS_Mensagem;
                         }
 
