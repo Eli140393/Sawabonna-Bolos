@@ -1,0 +1,30 @@
+D:\Users\caiov\source\repos\PizzariaPIMIII\Model\bin\Debug\Model.dll
+D:\Users\caiov\source\repos\PizzariaPIMIII\Model\bin\Debug\Model.pdb
+D:\Users\caiov\source\repos\PizzariaPIMIII\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\Users\caiov\source\repos\PizzariaPIMIII\Model\obj\Debug\Model.dll
+D:\Users\caiov\source\repos\PizzariaPIMIII\Model\obj\Debug\Model.pdb
+D:\Users\caiov\source\repos\PizzariaPIMIII\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\Model\bin\Debug\Model.dll
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\Model\bin\Debug\Model.pdb
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\Model\obj\Debug\Model.dll
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\Model\obj\Debug\Model.pdb
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\Model\bin\Debug\Model.dll
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\Model\bin\Debug\Model.pdb
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\Model\obj\Debug\Model.dll
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\Model\obj\Debug\Model.pdb
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\Model\bin\Debug\Model.dll
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\Model\bin\Debug\Model.pdb
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\Model\obj\Debug\Model.dll
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\Model\obj\Debug\Model.pdb
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\Model\bin\Debug\Model.dll
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\Model\bin\Debug\Model.pdb
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\Model\obj\Debug\Model.dll
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\Model\obj\Debug\Model.pdb
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\Model\bin\Debug\Entities.dll
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\Model\bin\Debug\Entities.pdb
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\Model\obj\Debug\Model.csproj.CopyComplete
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache

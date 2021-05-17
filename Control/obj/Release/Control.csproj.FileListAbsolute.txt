@@ -1,0 +1,9 @@
+D:\Users\caiov\source\repos\PizzariaPIMIII\Control\bin\Release\Control.dll
+D:\Users\caiov\source\repos\PizzariaPIMIII\Control\bin\Release\Control.pdb
+D:\Users\caiov\source\repos\PizzariaPIMIII\Control\bin\Release\Model.dll
+D:\Users\caiov\source\repos\PizzariaPIMIII\Control\bin\Release\Model.pdb
+D:\Users\caiov\source\repos\PizzariaPIMIII\Control\obj\Release\Control.csprojAssemblyReference.cache
+D:\Users\caiov\source\repos\PizzariaPIMIII\Control\obj\Release\Control.csproj.CoreCompileInputs.cache
+D:\Users\caiov\source\repos\PizzariaPIMIII\Control\obj\Release\Control.csproj.CopyComplete
+D:\Users\caiov\source\repos\PizzariaPIMIII\Control\obj\Release\Control.dll
+D:\Users\caiov\source\repos\PizzariaPIMIII\Control\obj\Release\Control.pdb

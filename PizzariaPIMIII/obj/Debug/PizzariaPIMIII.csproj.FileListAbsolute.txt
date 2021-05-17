@@ -1,0 +1,61 @@
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\PizzariaPIMIII.exe.config
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\PizzariaPIMIII.exe
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\PizzariaPIMIII.pdb
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\View.dll
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\Control.dll
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\Model.dll
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\View.pdb
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\Control.pdb
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\Model.pdb
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\obj\Debug\PizzariaPIMIII.csprojAssemblyReference.cache
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\obj\Debug\PizzariaPIMIII.Properties.Resources.resources
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\obj\Debug\PizzariaPIMIII.csproj.GenerateResource.cache
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\obj\Debug\PizzariaPIMIII.csproj.CoreCompileInputs.cache
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\obj\Debug\PizzariaPIMIII.csproj.CopyComplete
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\obj\Debug\PizzariaPIMIII.exe
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\obj\Debug\PizzariaPIMIII.pdb
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\FontAwesome.Sharp.dll
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\PizzariaPIMIII.exe.manifest
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\PizzariaPIMIII.application
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\obj\Debug\PizzariaPIMIII.exe.manifest
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\obj\Debug\PizzariaPIMIII.application
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\PizzariaPIMIII.exe.config
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\PizzariaPIMIII.exe.manifest
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\PizzariaPIMIII.application
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\PizzariaPIMIII.exe
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\PizzariaPIMIII.pdb
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\View.dll
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\Control.dll
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\Model.dll
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\View.pdb
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\Control.pdb
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\Model.pdb
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\obj\Debug\PizzariaPIMIII.csprojAssemblyReference.cache
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\obj\Debug\PizzariaPIMIII.Properties.Resources.resources
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\obj\Debug\PizzariaPIMIII.csproj.GenerateResource.cache
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\obj\Debug\PizzariaPIMIII.exe.manifest
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\obj\Debug\PizzariaPIMIII.application
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\obj\Debug\PizzariaPIMIII.csproj.CopyComplete
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\obj\Debug\PizzariaPIMIII.exe
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\obj\Debug\PizzariaPIMIII.pdb
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\PizzariaPIMIII.exe.config
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\PizzariaPIMIII.exe.manifest
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\PizzariaPIMIII.application
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\PizzariaPIMIII.exe
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\PizzariaPIMIII.pdb
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\View.dll
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\Control.dll
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\Model.dll
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\View.pdb
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\Control.pdb
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\bin\Debug\Model.pdb
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\obj\Debug\PizzariaPIMIII.csprojAssemblyReference.cache
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\obj\Debug\PizzariaPIMIII.Properties.Resources.resources
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\obj\Debug\PizzariaPIMIII.csproj.GenerateResource.cache
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\obj\Debug\PizzariaPIMIII.exe.manifest
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\obj\Debug\PizzariaPIMIII.application
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\obj\Debug\PizzariaPIMIII.csproj.CopyComplete
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\obj\Debug\PizzariaPIMIII.exe
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\PizzariaPIMIII\obj\Debug\PizzariaPIMIII.pdb

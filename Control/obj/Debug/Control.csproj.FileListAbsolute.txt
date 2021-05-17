@@ -1,0 +1,44 @@
+D:\Users\caiov\source\repos\PizzariaPIMIII\Control\bin\Debug\Control.dll
+D:\Users\caiov\source\repos\PizzariaPIMIII\Control\bin\Debug\Control.pdb
+D:\Users\caiov\source\repos\PizzariaPIMIII\Control\bin\Debug\Model.dll
+D:\Users\caiov\source\repos\PizzariaPIMIII\Control\bin\Debug\Model.pdb
+D:\Users\caiov\source\repos\PizzariaPIMIII\Control\obj\Debug\Control.csprojAssemblyReference.cache
+D:\Users\caiov\source\repos\PizzariaPIMIII\Control\obj\Debug\Control.csproj.CoreCompileInputs.cache
+D:\Users\caiov\source\repos\PizzariaPIMIII\Control\obj\Debug\Control.csproj.CopyComplete
+D:\Users\caiov\source\repos\PizzariaPIMIII\Control\obj\Debug\Control.dll
+D:\Users\caiov\source\repos\PizzariaPIMIII\Control\obj\Debug\Control.pdb
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\Control\bin\Debug\Control.dll
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\Control\bin\Debug\Control.pdb
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\Control\bin\Debug\Model.dll
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\Control\bin\Debug\Model.pdb
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\Control\obj\Debug\Control.csprojAssemblyReference.cache
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\Control\obj\Debug\Control.csproj.CopyComplete
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\Control\obj\Debug\Control.dll
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\Control\obj\Debug\Control.pdb
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\Control\bin\Debug\Control.dll
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\Control\bin\Debug\Control.pdb
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\Control\bin\Debug\Model.dll
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\Control\bin\Debug\Model.pdb
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\Control\obj\Debug\Control.csprojAssemblyReference.cache
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\Control\obj\Debug\Control.csproj.CopyComplete
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\Control\obj\Debug\Control.dll
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\Control\obj\Debug\Control.pdb
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\Control\bin\Debug\Control.dll
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\Control\bin\Debug\Control.pdb
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\Control\bin\Debug\Model.dll
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\Control\bin\Debug\Model.pdb
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\Control\obj\Debug\Control.csprojAssemblyReference.cache
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\Control\obj\Debug\Control.csproj.CopyComplete
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\Control\obj\Debug\Control.dll
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\Control\obj\Debug\Control.pdb
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\Control\bin\Debug\Control.dll
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\Control\bin\Debug\Control.pdb
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\Control\bin\Debug\Model.dll
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\Control\bin\Debug\Model.pdb
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\Control\obj\Debug\Control.csprojAssemblyReference.cache
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\Control\obj\Debug\Control.csproj.CopyComplete
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\Control\obj\Debug\Control.dll
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\Control\obj\Debug\Control.pdb
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\Control\bin\Debug\Entities.dll
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\Control\bin\Debug\Entities.pdb
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\Control\obj\Debug\Control.csproj.CoreCompileInputs.cache

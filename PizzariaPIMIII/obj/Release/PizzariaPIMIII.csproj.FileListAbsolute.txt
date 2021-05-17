@@ -1,0 +1,16 @@
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\bin\Release\PizzariaPIMIII.exe.config
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\bin\Release\PizzariaPIMIII.exe
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\bin\Release\PizzariaPIMIII.pdb
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\bin\Release\View.dll
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\bin\Release\Control.dll
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\bin\Release\Model.dll
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\bin\Release\View.pdb
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\bin\Release\Control.pdb
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\bin\Release\Model.pdb
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\obj\Release\PizzariaPIMIII.csprojAssemblyReference.cache
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\obj\Release\PizzariaPIMIII.Properties.Resources.resources
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\obj\Release\PizzariaPIMIII.csproj.GenerateResource.cache
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\obj\Release\PizzariaPIMIII.csproj.CoreCompileInputs.cache
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\obj\Release\PizzariaPIMIII.csproj.CopyComplete
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\obj\Release\PizzariaPIMIII.exe
+D:\Users\caiov\source\repos\PizzariaPIMIII\PizzariaPIMIII\obj\Release\PizzariaPIMIII.pdb

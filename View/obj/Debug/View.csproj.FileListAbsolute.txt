@@ -1,0 +1,133 @@
+D:\Users\caiov\source\repos\PizzariaPIMIII\View\bin\Debug\View.dll
+D:\Users\caiov\source\repos\PizzariaPIMIII\View\bin\Debug\View.pdb
+D:\Users\caiov\source\repos\PizzariaPIMIII\View\bin\Debug\Control.dll
+D:\Users\caiov\source\repos\PizzariaPIMIII\View\bin\Debug\Model.dll
+D:\Users\caiov\source\repos\PizzariaPIMIII\View\bin\Debug\Control.pdb
+D:\Users\caiov\source\repos\PizzariaPIMIII\View\bin\Debug\Model.pdb
+D:\Users\caiov\source\repos\PizzariaPIMIII\View\obj\Debug\View.csprojAssemblyReference.cache
+D:\Users\caiov\source\repos\PizzariaPIMIII\View\obj\Debug\View.Properties.Resources.resources
+D:\Users\caiov\source\repos\PizzariaPIMIII\View\obj\Debug\View.ViewProduto.resources
+D:\Users\caiov\source\repos\PizzariaPIMIII\View\obj\Debug\View.csproj.GenerateResource.cache
+D:\Users\caiov\source\repos\PizzariaPIMIII\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+D:\Users\caiov\source\repos\PizzariaPIMIII\View\obj\Debug\View.csproj.CopyComplete
+D:\Users\caiov\source\repos\PizzariaPIMIII\View\obj\Debug\View.dll
+D:\Users\caiov\source\repos\PizzariaPIMIII\View\obj\Debug\View.pdb
+D:\Users\caiov\source\repos\PizzariaPIMIII\View\obj\Debug\View.ViewMenu.resources
+D:\Users\caiov\source\repos\PizzariaPIMIII\View\obj\Debug\View.ViewCliente.resources
+D:\Users\caiov\source\repos\PizzariaPIMIII\View\obj\Debug\View.ViewFuncionario.resources
+D:\Users\caiov\source\repos\PizzariaPIMIII\View\obj\Debug\View.ViewCategoria.resources
+D:\Users\caiov\source\repos\PizzariaPIMIII\View\obj\Debug\View.ViewVenda.resources
+D:\Users\caiov\source\repos\PizzariaPIMIII\View\obj\Debug\View.ViewInsumo.resources
+D:\Users\caiov\source\repos\PizzariaPIMIII\View\obj\Debug\View.ViewLogin.resources
+D:\Users\caiov\source\repos\PizzariaPIMIII\View\bin\Debug\FontAwesome.Sharp.dll
+D:\Users\caiov\source\repos\PizzariaPIMIII\View\obj\Debug\View.ViewCompra.resources
+D:\Users\caiov\source\repos\PizzariaPIMIII\View\obj\Debug\View.ViewUnidadeRede.resources
+D:\Users\caiov\source\repos\PizzariaPIMIII\View\obj\Debug\View.ViewLoginAcesso.resources
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\bin\Debug\View.dll
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\bin\Debug\View.pdb
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\bin\Debug\Control.dll
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\bin\Debug\Model.dll
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\bin\Debug\Control.pdb
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\bin\Debug\Model.pdb
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\obj\Debug\View.ViewCategoria.resources
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\obj\Debug\View.ViewCliente.resources
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\obj\Debug\View.ViewCompra.resources
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\obj\Debug\View.ViewFuncionario.resources
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\obj\Debug\View.ViewInsumo.resources
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\obj\Debug\View.ViewLogin.resources
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\obj\Debug\View.ViewLoginAcesso.resources
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\obj\Debug\View.ViewMenu.resources
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\obj\Debug\View.ViewProduto.resources
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\obj\Debug\View.ViewUnidadeRede.resources
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\obj\Debug\View.ViewVenda.resources
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\obj\Debug\View.dll
+C:\Users\elide\Desktop\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\obj\Debug\View.pdb
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\bin\Debug\View.dll
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\bin\Debug\View.pdb
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\bin\Debug\Control.dll
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\bin\Debug\Model.dll
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\bin\Debug\Control.pdb
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\bin\Debug\Model.pdb
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\obj\Debug\View.ViewCategoria.resources
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\obj\Debug\View.ViewCliente.resources
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\obj\Debug\View.ViewCompra.resources
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\obj\Debug\View.ViewFuncionario.resources
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\obj\Debug\View.ViewInsumo.resources
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\obj\Debug\View.ViewLogin.resources
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\obj\Debug\View.ViewLoginAcesso.resources
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\obj\Debug\View.ViewMenu.resources
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\obj\Debug\View.ViewProduto.resources
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\obj\Debug\View.ViewUnidadeRede.resources
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\obj\Debug\View.ViewVenda.resources
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\obj\Debug\View.dll
+C:\Users\elide\Desktop\Aulas-Projetos\3 semestre\SistemaAtual\EmUso\PIM.III\PIM.III\PizzariaPIMIII\PizzariaPIMIII\View\obj\Debug\View.pdb
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\bin\Debug\View.dll
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\bin\Debug\View.pdb
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\bin\Debug\Control.dll
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\bin\Debug\Model.dll
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\bin\Debug\Control.pdb
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\bin\Debug\Model.pdb
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.ViewCategoria.resources
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.ViewCliente.resources
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.ViewCompra.resources
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.ViewFuncionario.resources
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.ViewInsumo.resources
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.ViewLogin.resources
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.ViewLoginAcesso.resources
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.ViewMenu.resources
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.ViewProduto.resources
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.ViewVenda.resources
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.dll
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.pdb
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.ViewPerdas.resources
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\elide\Desktop\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.csprojAssemblyReference.cache
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.Properties.Resources.resources
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.ViewCategoria.resources
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.ViewCliente.resources
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.ViewCompra.resources
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.ViewFuncionario.resources
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.ViewInsumo.resources
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.ViewLogin.resources
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.ViewLoginAcesso.resources
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.ViewMenu.resources
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.ViewProduto.resources
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.ViewPerdas.resources
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.ViewVenda.resources
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.csproj.GenerateResource.cache
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.dll
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.pdb
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\bin\Debug\View.dll
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\bin\Debug\View.pdb
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\bin\Debug\Control.dll
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\bin\Debug\FontAwesome.Sharp.dll
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\bin\Debug\Model.dll
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\bin\Debug\Control.pdb
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\bin\Debug\Model.pdb
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.csproj.CopyComplete
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.ViewProdutoDiverso.resources
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.ViewRelatorio.resources
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\bin\Debug\Entities.dll
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\bin\Debug\Entities.pdb
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\bin\Debug\Microsoft.ReportingServices.Authorization.dll
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\bin\Debug\Microsoft.ReportingServices.Diagnostics.dll
+D:\Aulas-Projetos\4 Semestre\Eliete-bolos\Eliete-bolos\bolos\View\bin\Debug\Microsoft.ReportingServices.Interfaces.dll

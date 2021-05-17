@@ -1,0 +1,6 @@
+D:\Users\caiov\source\repos\PizzariaPIMIII\Model\bin\Release\Model.dll
+D:\Users\caiov\source\repos\PizzariaPIMIII\Model\bin\Release\Model.pdb
+D:\Users\caiov\source\repos\PizzariaPIMIII\Model\obj\Release\Model.csprojAssemblyReference.cache
+D:\Users\caiov\source\repos\PizzariaPIMIII\Model\obj\Release\Model.csproj.CoreCompileInputs.cache
+D:\Users\caiov\source\repos\PizzariaPIMIII\Model\obj\Release\Model.dll
+D:\Users\caiov\source\repos\PizzariaPIMIII\Model\obj\Release\Model.pdb
