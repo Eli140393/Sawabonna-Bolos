@@ -144,7 +144,7 @@ namespace View
             vendas = new ControlVenda();
 
             dgvVendaList.DataSource = vendas.BuscarFuncionarioVenda(fromDate, toDate, txtBuscarVenda.Text);
-
+            editarDataGridBuscar();
         }
 
         private void BuscarClienteVendas()
@@ -152,14 +152,14 @@ namespace View
             vendas = new ControlVenda();
 
             dgvVendaList.DataSource = vendas.BuscarClienteVenda(fromDate, toDate, txtBuscarVenda.Text);
-
+            editarDataGridBuscar();
         }
         private void BuscarProdutoVendas()
         {
             vendas = new ControlVenda();
 
             dgvVendaList.DataSource = vendas.BuscarProdutoVenda(fromDate, toDate, txtBuscarVenda.Text);
-
+            editarDataGridBuscar();
         }
 
 
@@ -176,10 +176,32 @@ namespace View
             dgvVendaList.Columns[1].HeaderText = "DATA\n VENDA";
             dgvVendaList.Columns[2].HeaderText = "NOME\n CLIENTE";
             dgvVendaList.Columns[3].HeaderText = "NOME\nFUNCIONARIO";
-            dgvVendaList.Columns[4].HeaderText = "TOTAL\n VENDA";
-            dgvVendaList.Columns[5].HeaderText = "NOME\n PRODUTO";
-            dgvVendaList.Columns[6].HeaderText = "TOTAL\n CUSTO";
+            dgvVendaList.Columns[4].HeaderText = "NOME\n PRODUTO"; 
+            dgvVendaList.Columns[5].HeaderText = "TOTAL\n VENDA";
+            dgvVendaList.Columns[6].HeaderText =   "TOTAL\n CUSTO";
             dgvVendaList.Columns[7].Visible = false;
+
+
+            dgvVendaList.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells;
+            dgvVendaList.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+
+
+
+        }
+        private void editarDataGridBuscar()
+        {
+
+
+            dgvVendaList.DefaultCellStyle.WrapMode = DataGridViewTriState.True;
+
+
+            dgvVendaList.Columns[0].HeaderText = "CÓDIGO";
+            dgvVendaList.Columns[1].HeaderText = "DATA\n VENDA";
+            dgvVendaList.Columns[2].HeaderText = "NOME\n CLIENTE";
+            dgvVendaList.Columns[3].HeaderText = "NOME\nFUNCIONARIO";
+            dgvVendaList.Columns[4].HeaderText = "NOME\n PRODUTO";
+            dgvVendaList.Columns[5].HeaderText = "TOTAL\n VENDA";
+            dgvVendaList.Columns[6].HeaderText = "TOTAL\n CUSTO";
 
 
             dgvVendaList.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells;
@@ -212,16 +234,16 @@ namespace View
 
             foreach (DataGridViewRow row in dgvVendaList.Rows)
             {
-                listProdutos.Add(Convert.ToString(row.Cells[5].Value));
-                listVenda.Add(Convert.ToDouble(row.Cells[4].Value));
+                listProdutos.Add(Convert.ToString(row.Cells[4].Value));
+                listVenda.Add(Convert.ToDouble(row.Cells[5].Value));
                 listGastos.Add(Convert.ToDouble(row.Cells[6].Value));
             }
 
             foreach (DataGridViewRow row in dgvVendaList.Rows)
             {
-                totalVendas += Convert.ToDouble(row.Cells[4].Value);
-                double totalVenda = Convert.ToDouble(row.Cells[4].Value);
-                row.Cells[4].Value = totalVenda.ToString("C", CultureInfo.CurrentCulture);
+                totalVendas += Convert.ToDouble(row.Cells[5].Value);
+                double totalVenda = Convert.ToDouble(row.Cells[5].Value);
+                row.Cells[5].Value = totalVenda.ToString("C", CultureInfo.CurrentCulture);
 
                 double totalGasto = Convert.ToDouble(row.Cells[6].Value);
                 row.Cells[6].Value = totalGasto.ToString("C", CultureInfo.CurrentCulture);

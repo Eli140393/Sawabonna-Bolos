@@ -167,9 +167,9 @@ namespace Model
                 VEN.DT_Venda,
                 CLI.NM_Cliente,
 				FUN.NM_Funcionario,
-				string_agg(PROD.NM_Produto, ',
+				string_agg(PROD.NM_Produto, ', 
 ') as NM_Produtos,
-                SUM(ITEM.QTDE_ItemVenda* PROD.PR_Unitario ) + VEN.VL_TaxaEntrega AS VL_Total,
+                SUM(ITEM.VL_SubTotal) + VEN.VL_TaxaEntrega AS VL_Total,  
 				SUM((PROD.PR_Custo ) * ITEM.QTDE_ItemVenda) AS TotalCusto
                 FROM TB_Venda AS VEN
                 INNER JOIN TB_Cliente as CLI

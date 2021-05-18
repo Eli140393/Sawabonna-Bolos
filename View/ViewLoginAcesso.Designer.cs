@@ -323,7 +323,7 @@
             this.Name = "ViewLoginAcesso";
             this.Opacity = 0.95D;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "ViewLoginAcesso";
+            this.Text = "Login";
             this.Load += new System.EventHandler(this.ViewLoginAcesso_Load);
             this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.ViewLoginAcesso_MouseDown);
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();

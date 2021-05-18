@@ -781,7 +781,7 @@
             this.label5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(52)))), ((int)(((byte)(152)))), ((int)(((byte)(219)))));
             this.label5.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.White;
-            this.label5.Location = new System.Drawing.Point(1204, 252);
+            this.label5.Location = new System.Drawing.Point(1219, 252);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(67, 20);
             this.label5.TabIndex = 145;
@@ -794,7 +794,7 @@
             this.iconPictureBox1.IconChar = FontAwesome.Sharp.IconChar.CommentDollar;
             this.iconPictureBox1.IconColor = System.Drawing.Color.WhiteSmoke;
             this.iconPictureBox1.IconSize = 124;
-            this.iconPictureBox1.Location = new System.Drawing.Point(1414, 157);
+            this.iconPictureBox1.Location = new System.Drawing.Point(1419, 157);
             this.iconPictureBox1.Name = "iconPictureBox1";
             this.iconPictureBox1.Size = new System.Drawing.Size(133, 124);
             this.iconPictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
@@ -807,7 +807,7 @@
             this.lbTotalVendasPeriodo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(52)))), ((int)(((byte)(152)))), ((int)(((byte)(219)))));
             this.lbTotalVendasPeriodo.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbTotalVendasPeriodo.ForeColor = System.Drawing.Color.White;
-            this.lbTotalVendasPeriodo.Location = new System.Drawing.Point(1206, 201);
+            this.lbTotalVendasPeriodo.Location = new System.Drawing.Point(1211, 201);
             this.lbTotalVendasPeriodo.Name = "lbTotalVendasPeriodo";
             this.lbTotalVendasPeriodo.Size = new System.Drawing.Size(71, 32);
             this.lbTotalVendasPeriodo.TabIndex = 143;
@@ -819,7 +819,7 @@
             this.label9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(52)))), ((int)(((byte)(152)))), ((int)(((byte)(219)))));
             this.label9.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.ForeColor = System.Drawing.Color.White;
-            this.label9.Location = new System.Drawing.Point(1209, 161);
+            this.label9.Location = new System.Drawing.Point(1214, 161);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(110, 23);
             this.label9.TabIndex = 144;
@@ -828,7 +828,7 @@
             // pbTotalVenda
             // 
             this.pbTotalVenda.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(52)))), ((int)(((byte)(152)))), ((int)(((byte)(219)))));
-            this.pbTotalVenda.Location = new System.Drawing.Point(1196, 152);
+            this.pbTotalVenda.Location = new System.Drawing.Point(1201, 152);
             this.pbTotalVenda.Name = "pbTotalVenda";
             this.pbTotalVenda.Size = new System.Drawing.Size(361, 140);
             this.pbTotalVenda.TabIndex = 141;
@@ -1083,7 +1083,7 @@
             this.dgvVendaList.RowsDefaultCellStyle = dataGridViewCellStyle4;
             this.dgvVendaList.RowTemplate.Height = 24;
             this.dgvVendaList.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dgvVendaList.Size = new System.Drawing.Size(1172, 390);
+            this.dgvVendaList.Size = new System.Drawing.Size(1187, 390);
             this.dgvVendaList.TabIndex = 6;
             // 
             // ViewRelatorio

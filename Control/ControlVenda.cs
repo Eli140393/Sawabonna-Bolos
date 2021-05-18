@@ -79,7 +79,7 @@ namespace Control
 
             myVenda = new ModelVenda();
 
-            return myVenda.BuscarNomeCliente(dtInicial, dtFinal, funcionario);
+            return myVenda.BuscarNomeFuncionario(dtInicial, dtFinal, funcionario);
 
 
 
