@@ -569,8 +569,9 @@ namespace View
                             {
                                 QuantidadeInsumoCompraOK = true;
                             }
-                            else
+                            if (armazenamento.Equals("Unidade(s)"))
                             {
+                                
                                 ValidarNumero(txtQuantidadeInsumoCompra);
                                 if (myValidar.NumeroValido == true)
                                 {

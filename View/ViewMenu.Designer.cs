@@ -109,7 +109,7 @@
             this.btnViewLogin.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
             this.btnViewLogin.IconSize = 32;
             this.btnViewLogin.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnViewLogin.Location = new System.Drawing.Point(0, 534);
+            this.btnViewLogin.Location = new System.Drawing.Point(0, 537);
             this.btnViewLogin.Margin = new System.Windows.Forms.Padding(4);
             this.btnViewLogin.Name = "btnViewLogin";
             this.btnViewLogin.Padding = new System.Windows.Forms.Padding(7, 0, 20, 0);
@@ -136,7 +136,7 @@
             this.btnViewFuncionario.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
             this.btnViewFuncionario.IconSize = 32;
             this.btnViewFuncionario.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnViewFuncionario.Location = new System.Drawing.Point(0, 479);
+            this.btnViewFuncionario.Location = new System.Drawing.Point(0, 482);
             this.btnViewFuncionario.Margin = new System.Windows.Forms.Padding(4);
             this.btnViewFuncionario.Name = "btnViewFuncionario";
             this.btnViewFuncionario.Padding = new System.Windows.Forms.Padding(7, 0, 20, 0);
@@ -163,7 +163,7 @@
             this.btnViewPerdas.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
             this.btnViewPerdas.IconSize = 32;
             this.btnViewPerdas.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnViewPerdas.Location = new System.Drawing.Point(0, 424);
+            this.btnViewPerdas.Location = new System.Drawing.Point(0, 427);
             this.btnViewPerdas.Margin = new System.Windows.Forms.Padding(4);
             this.btnViewPerdas.Name = "btnViewPerdas";
             this.btnViewPerdas.Padding = new System.Windows.Forms.Padding(7, 0, 20, 0);
@@ -190,7 +190,7 @@
             this.btnViewCompra.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
             this.btnViewCompra.IconSize = 32;
             this.btnViewCompra.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnViewCompra.Location = new System.Drawing.Point(0, 369);
+            this.btnViewCompra.Location = new System.Drawing.Point(0, 372);
             this.btnViewCompra.Margin = new System.Windows.Forms.Padding(4);
             this.btnViewCompra.Name = "btnViewCompra";
             this.btnViewCompra.Padding = new System.Windows.Forms.Padding(7, 0, 20, 0);
@@ -217,7 +217,7 @@
             this.btnViewInsumo.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
             this.btnViewInsumo.IconSize = 32;
             this.btnViewInsumo.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnViewInsumo.Location = new System.Drawing.Point(0, 314);
+            this.btnViewInsumo.Location = new System.Drawing.Point(0, 317);
             this.btnViewInsumo.Margin = new System.Windows.Forms.Padding(4);
             this.btnViewInsumo.Name = "btnViewInsumo";
             this.btnViewInsumo.Padding = new System.Windows.Forms.Padding(7, 0, 20, 0);
@@ -244,7 +244,7 @@
             this.btnViewCategoria.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
             this.btnViewCategoria.IconSize = 32;
             this.btnViewCategoria.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnViewCategoria.Location = new System.Drawing.Point(0, 259);
+            this.btnViewCategoria.Location = new System.Drawing.Point(0, 262);
             this.btnViewCategoria.Margin = new System.Windows.Forms.Padding(4);
             this.btnViewCategoria.Name = "btnViewCategoria";
             this.btnViewCategoria.Padding = new System.Windows.Forms.Padding(7, 0, 20, 0);
@@ -271,7 +271,7 @@
             this.btnDiversos.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
             this.btnDiversos.IconSize = 32;
             this.btnDiversos.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.btnDiversos.Location = new System.Drawing.Point(0, 213);
+            this.btnDiversos.Location = new System.Drawing.Point(0, 216);
             this.btnDiversos.Margin = new System.Windows.Forms.Padding(4);
             this.btnDiversos.Name = "btnDiversos";
             this.btnDiversos.Padding = new System.Windows.Forms.Padding(7, 0, 20, 0);
@@ -298,7 +298,7 @@
             this.btnViewProduto.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
             this.btnViewProduto.IconSize = 32;
             this.btnViewProduto.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.btnViewProduto.Location = new System.Drawing.Point(0, 167);
+            this.btnViewProduto.Location = new System.Drawing.Point(0, 170);
             this.btnViewProduto.Margin = new System.Windows.Forms.Padding(4);
             this.btnViewProduto.Name = "btnViewProduto";
             this.btnViewProduto.Padding = new System.Windows.Forms.Padding(7, 0, 20, 0);
@@ -325,7 +325,7 @@
             this.btnProdutos.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
             this.btnProdutos.IconSize = 32;
             this.btnProdutos.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnProdutos.Location = new System.Drawing.Point(0, 112);
+            this.btnProdutos.Location = new System.Drawing.Point(0, 115);
             this.btnProdutos.Margin = new System.Windows.Forms.Padding(4);
             this.btnProdutos.Name = "btnProdutos";
             this.btnProdutos.Padding = new System.Windows.Forms.Padding(7, 0, 20, 0);
@@ -352,7 +352,7 @@
             this.btnViewRelatorio.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
             this.btnViewRelatorio.IconSize = 32;
             this.btnViewRelatorio.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnViewRelatorio.Location = new System.Drawing.Point(0, 57);
+            this.btnViewRelatorio.Location = new System.Drawing.Point(0, 60);
             this.btnViewRelatorio.Margin = new System.Windows.Forms.Padding(4);
             this.btnViewRelatorio.Name = "btnViewRelatorio";
             this.btnViewRelatorio.Padding = new System.Windows.Forms.Padding(7, 0, 20, 0);
@@ -384,7 +384,7 @@
             this.btnGerencia.Name = "btnGerencia";
             this.btnGerencia.Padding = new System.Windows.Forms.Padding(7, 0, 20, 0);
             this.btnGerencia.Rotation = 0D;
-            this.btnGerencia.Size = new System.Drawing.Size(258, 57);
+            this.btnGerencia.Size = new System.Drawing.Size(258, 60);
             this.btnGerencia.TabIndex = 28;
             this.btnGerencia.Text = "Gerência";
             this.btnGerencia.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -396,7 +396,7 @@
             // 
             this.btnInicio.ErrorImage = null;
             this.btnInicio.Image = ((System.Drawing.Image)(resources.GetObject("btnInicio.Image")));
-            this.btnInicio.Location = new System.Drawing.Point(16, 5);
+            this.btnInicio.Location = new System.Drawing.Point(22, 12);
             this.btnInicio.Margin = new System.Windows.Forms.Padding(4);
             this.btnInicio.Name = "btnInicio";
             this.btnInicio.Size = new System.Drawing.Size(222, 148);
@@ -469,7 +469,7 @@
             this.btnViewVenda.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
             this.btnViewVenda.IconSize = 32;
             this.btnViewVenda.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnViewVenda.Location = new System.Drawing.Point(13, 246);
+            this.btnViewVenda.Location = new System.Drawing.Point(13, 228);
             this.btnViewVenda.Margin = new System.Windows.Forms.Padding(4);
             this.btnViewVenda.Name = "btnViewVenda";
             this.btnViewVenda.Padding = new System.Windows.Forms.Padding(7, 0, 20, 0);
@@ -517,10 +517,10 @@
             this.pnlView.BackColor = System.Drawing.Color.Gainsboro;
             this.pnlView.Dock = System.Windows.Forms.DockStyle.Fill;
             this.pnlView.ForeColor = System.Drawing.Color.White;
-            this.pnlView.Location = new System.Drawing.Point(275, 59);
+            this.pnlView.Location = new System.Drawing.Point(275, 62);
             this.pnlView.Margin = new System.Windows.Forms.Padding(4);
             this.pnlView.Name = "pnlView";
-            this.pnlView.Size = new System.Drawing.Size(1565, 987);
+            this.pnlView.Size = new System.Drawing.Size(1565, 984);
             this.pnlView.TabIndex = 18;
             // 
             // iconeFrmFilho
@@ -683,7 +683,7 @@
             this.pnlTitulo.ForeColor = System.Drawing.Color.Transparent;
             this.pnlTitulo.Location = new System.Drawing.Point(275, 0);
             this.pnlTitulo.Name = "pnlTitulo";
-            this.pnlTitulo.Size = new System.Drawing.Size(1565, 59);
+            this.pnlTitulo.Size = new System.Drawing.Size(1565, 62);
             this.pnlTitulo.TabIndex = 16;
             // 
             // ViewMenu

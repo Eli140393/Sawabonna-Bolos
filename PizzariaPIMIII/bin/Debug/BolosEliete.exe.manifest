@@ -127,14 +127,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="View.dll" size="1281536">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="View.dll" size="1281024">
       <assemblyIdentity name="View" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>JXqbUIUssA9yjySVHqRJFGY31zgl2VaLpzECwEOdhIs=</dsig:DigestValue>
+        <dsig:DigestValue>r2BMivEuTRyXtxUT1LbnFzh8ee0W2fW86pIynxE777I=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

@@ -104,7 +104,6 @@ namespace View
 
 
 
-            chVendas.Series[0].Points.DataBindXY(obj.Produtos, obj.Gastos);
 
         }
         private void GraficoProdutos()
@@ -252,7 +251,7 @@ namespace View
 
             }
             lbTotalVendasPeriodo.Text = totalVendas.ToString("C", CultureInfo.CurrentCulture);
-
+            lbTotalVendasPorData.Text = dgvVendaList.Rows.Count.ToString();
 
 
             chRelatorioVendas.Series[0].Points.DataBindXY(listProdutos, listVenda);
