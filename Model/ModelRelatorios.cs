@@ -242,8 +242,11 @@ namespace Model
                 SqlParameter totalInsumos = new SqlParameter("@TotalInsumos", 0);
                 totalInsumos.Direction = ParameterDirection.Output;
 
-                SqlParameter totalCompras = new SqlParameter("@TotalCompras", 0);
-                totalCompras.Direction = ParameterDirection.Output;
+                SqlParameter totalComprasKG = new SqlParameter("@TotalComprasKG", 0);
+                totalComprasKG.Direction = ParameterDirection.Output;
+
+                SqlParameter totalComprasUnidades = new SqlParameter("@TotalComprasUnidades", 0);
+                totalComprasUnidades.Direction = ParameterDirection.Output;
 
                 sqlCommand.Parameters.Add(totalVendas);
                 sqlCommand.Parameters.Add(totalProdutos);
@@ -252,7 +255,9 @@ namespace Model
                 sqlCommand.Parameters.Add(totalClientes);
                 sqlCommand.Parameters.Add(totalFuncionarios);
                 sqlCommand.Parameters.Add(totalInsumos);
-                sqlCommand.Parameters.Add(totalCompras);
+                sqlCommand.Parameters.Add(totalComprasKG);
+                sqlCommand.Parameters.Add(totalComprasUnidades);
+
 
 
                 SqlCon.Open();
@@ -267,11 +272,12 @@ namespace Model
                 obj.totalClientes = sqlCommand.Parameters["@TotalClientes"].Value.ToString();
                 obj.totalFuncionarios = sqlCommand.Parameters["@TotalFuncionarios"].Value.ToString();
                 obj.totalInsumos = sqlCommand.Parameters["@TotalInsumos"].Value.ToString();
-                obj.totalCompras = sqlCommand.Parameters["@TotalCompras"].Value.ToString();
-            
+                obj.totalComprasKG = sqlCommand.Parameters["@TotalComprasKG"].Value.ToString();
+                obj.totalComprasUnidades = sqlCommand.Parameters["@TotalComprasUnidades"].Value.ToString();
 
 
-            
+
+
             }
 
 

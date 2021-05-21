@@ -28,7 +28,9 @@ namespace Entities
         public string totalClientes { get; set; }
         public string totalFuncionarios { get; set; }
         public string totalInsumos { get; set; }
-        public string totalCompras { get; set; }
+        public string totalComprasKG { get; set; }
+        public string totalComprasUnidades { get; set; }
+
 
 
 

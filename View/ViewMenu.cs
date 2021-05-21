@@ -514,5 +514,10 @@ namespace View
             ativaBtnGerencia(sender, RGBcolors.color3);
             abrirFormulario(new ViewProdutoDiverso());
         }
+
+        private void btnCaixa_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

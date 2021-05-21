@@ -61,6 +61,14 @@ namespace Model
 
 
 
+        public void ImprimirCupom()
+        {
+            foreach(var impressora in System.Drawing.Printing.PrinterSettings.InstalledPrinters)
+            {
+
+            }
+        }
+
         // Método inserir
         public void InserirVenda()
         {

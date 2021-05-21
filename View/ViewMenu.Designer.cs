@@ -42,37 +42,37 @@
             this.btnProdutos = new FontAwesome.Sharp.IconButton();
             this.btnViewRelatorio = new FontAwesome.Sharp.IconButton();
             this.btnGerencia = new FontAwesome.Sharp.IconButton();
-            this.btnInicio = new System.Windows.Forms.PictureBox();
-            this.btnFechar = new FontAwesome.Sharp.IconButton();
-            this.btnMinimizar = new FontAwesome.Sharp.IconButton();
             this.ttmesagem = new System.Windows.Forms.ToolTip(this.components);
-            this.btnViewVenda = new FontAwesome.Sharp.IconButton();
-            this.btnViewCliente = new FontAwesome.Sharp.IconButton();
             this.errorIcone = new System.Windows.Forms.ErrorProvider(this.components);
+            this.btnViewCliente = new FontAwesome.Sharp.IconButton();
+            this.btnViewVenda = new FontAwesome.Sharp.IconButton();
             this.pnlView = new System.Windows.Forms.Panel();
-            this.iconeFrmFilho = new FontAwesome.Sharp.IconPictureBox();
             this.lblTituloFrmFilho = new System.Windows.Forms.Label();
             this.lblHora = new System.Windows.Forms.Label();
             this.lblData = new System.Windows.Forms.Label();
             this.pnlMenuLateral = new System.Windows.Forms.Panel();
             this.pnlMenuItens = new System.Windows.Forms.Panel();
             this.pnlGerenciaBtn = new System.Windows.Forms.Panel();
-            this.ipboxNivelAcesso = new FontAwesome.Sharp.IconPictureBox();
+            this.btnInicio = new System.Windows.Forms.PictureBox();
             this.lblNivelAcesso = new System.Windows.Forms.Label();
             this.lblNomeFuncionario = new System.Windows.Forms.Label();
-            this.ipboxNomeFuncionario = new FontAwesome.Sharp.IconPictureBox();
             this.timer = new System.Windows.Forms.Timer(this.components);
             this.pnlTitulo = new System.Windows.Forms.Panel();
+            this.btnFechar = new FontAwesome.Sharp.IconButton();
+            this.btnMinimizar = new FontAwesome.Sharp.IconButton();
+            this.iconeFrmFilho = new FontAwesome.Sharp.IconPictureBox();
+            this.ipboxNivelAcesso = new FontAwesome.Sharp.IconPictureBox();
+            this.ipboxNomeFuncionario = new FontAwesome.Sharp.IconPictureBox();
             this.pnlGerencia.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.btnInicio)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.errorIcone)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.iconeFrmFilho)).BeginInit();
             this.pnlMenuLateral.SuspendLayout();
             this.pnlMenuItens.SuspendLayout();
             this.pnlGerenciaBtn.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.btnInicio)).BeginInit();
+            this.pnlTitulo.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.iconeFrmFilho)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.ipboxNivelAcesso)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.ipboxNomeFuncionario)).BeginInit();
-            this.pnlTitulo.SuspendLayout();
             this.SuspendLayout();
             // 
             // pnlGerencia
@@ -392,6 +392,148 @@
             this.btnGerencia.UseVisualStyleBackColor = false;
             this.btnGerencia.Click += new System.EventHandler(this.btnGerencia_Click);
             // 
+            // ttmesagem
+            // 
+            this.ttmesagem.IsBalloon = true;
+            // 
+            // errorIcone
+            // 
+            this.errorIcone.ContainerControl = this;
+            // 
+            // btnViewCliente
+            // 
+            this.btnViewCliente.BackColor = System.Drawing.Color.White;
+            this.btnViewCliente.FlatAppearance.BorderSize = 0;
+            this.btnViewCliente.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnViewCliente.Flip = FontAwesome.Sharp.FlipOrientation.Normal;
+            this.btnViewCliente.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnViewCliente.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
+            this.errorIcone.SetIconAlignment(this.btnViewCliente, System.Windows.Forms.ErrorIconAlignment.MiddleLeft);
+            this.btnViewCliente.IconChar = FontAwesome.Sharp.IconChar.Users;
+            this.btnViewCliente.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
+            this.btnViewCliente.IconSize = 32;
+            this.btnViewCliente.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnViewCliente.Location = new System.Drawing.Point(13, 173);
+            this.btnViewCliente.Margin = new System.Windows.Forms.Padding(4);
+            this.btnViewCliente.Name = "btnViewCliente";
+            this.btnViewCliente.Padding = new System.Windows.Forms.Padding(7, 0, 20, 0);
+            this.btnViewCliente.Rotation = 0D;
+            this.btnViewCliente.Size = new System.Drawing.Size(251, 57);
+            this.btnViewCliente.TabIndex = 1;
+            this.btnViewCliente.Text = "Clientes";
+            this.btnViewCliente.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnViewCliente.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.btnViewCliente.UseVisualStyleBackColor = false;
+            this.btnViewCliente.Click += new System.EventHandler(this.btnViewCliente_Click);
+            // 
+            // btnViewVenda
+            // 
+            this.btnViewVenda.BackColor = System.Drawing.Color.White;
+            this.btnViewVenda.FlatAppearance.BorderSize = 0;
+            this.btnViewVenda.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnViewVenda.Flip = FontAwesome.Sharp.FlipOrientation.Normal;
+            this.btnViewVenda.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnViewVenda.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
+            this.errorIcone.SetIconAlignment(this.btnViewVenda, System.Windows.Forms.ErrorIconAlignment.MiddleLeft);
+            this.btnViewVenda.IconChar = FontAwesome.Sharp.IconChar.CartPlus;
+            this.btnViewVenda.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
+            this.btnViewVenda.IconSize = 32;
+            this.btnViewVenda.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnViewVenda.Location = new System.Drawing.Point(13, 254);
+            this.btnViewVenda.Margin = new System.Windows.Forms.Padding(4);
+            this.btnViewVenda.Name = "btnViewVenda";
+            this.btnViewVenda.Padding = new System.Windows.Forms.Padding(7, 0, 20, 0);
+            this.btnViewVenda.Rotation = 0D;
+            this.btnViewVenda.Size = new System.Drawing.Size(251, 57);
+            this.btnViewVenda.TabIndex = 3;
+            this.btnViewVenda.Text = "Venda";
+            this.btnViewVenda.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnViewVenda.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.btnViewVenda.UseVisualStyleBackColor = false;
+            this.btnViewVenda.Click += new System.EventHandler(this.btnViewVenda_Click);
+            // 
+            // pnlView
+            // 
+            this.pnlView.BackColor = System.Drawing.Color.Gainsboro;
+            this.pnlView.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.pnlView.ForeColor = System.Drawing.Color.White;
+            this.pnlView.Location = new System.Drawing.Point(275, 62);
+            this.pnlView.Margin = new System.Windows.Forms.Padding(4);
+            this.pnlView.Name = "pnlView";
+            this.pnlView.Size = new System.Drawing.Size(1565, 984);
+            this.pnlView.TabIndex = 18;
+            // 
+            // lblTituloFrmFilho
+            // 
+            this.lblTituloFrmFilho.AutoSize = true;
+            this.lblTituloFrmFilho.BackColor = System.Drawing.Color.White;
+            this.lblTituloFrmFilho.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTituloFrmFilho.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
+            this.lblTituloFrmFilho.Location = new System.Drawing.Point(75, 16);
+            this.lblTituloFrmFilho.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblTituloFrmFilho.Name = "lblTituloFrmFilho";
+            this.lblTituloFrmFilho.Size = new System.Drawing.Size(75, 28);
+            this.lblTituloFrmFilho.TabIndex = 1;
+            this.lblTituloFrmFilho.Text = "Início";
+            // 
+            // lblHora
+            // 
+            this.lblHora.AutoSize = true;
+            this.lblHora.Font = new System.Drawing.Font("Century Gothic", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblHora.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
+            this.lblHora.Location = new System.Drawing.Point(102, 999);
+            this.lblHora.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblHora.Name = "lblHora";
+            this.lblHora.Size = new System.Drawing.Size(97, 30);
+            this.lblHora.TabIndex = 0;
+            this.lblHora.Text = "Horário";
+            // 
+            // lblData
+            // 
+            this.lblData.AutoSize = true;
+            this.lblData.Font = new System.Drawing.Font("Century Gothic", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblData.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
+            this.lblData.Location = new System.Drawing.Point(44, 960);
+            this.lblData.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblData.Name = "lblData";
+            this.lblData.Size = new System.Drawing.Size(71, 30);
+            this.lblData.TabIndex = 1;
+            this.lblData.Text = "Data";
+            // 
+            // pnlMenuLateral
+            // 
+            this.pnlMenuLateral.BackColor = System.Drawing.Color.Gainsboro;
+            this.pnlMenuLateral.Controls.Add(this.pnlMenuItens);
+            this.pnlMenuLateral.Dock = System.Windows.Forms.DockStyle.Left;
+            this.pnlMenuLateral.ImeMode = System.Windows.Forms.ImeMode.NoControl;
+            this.pnlMenuLateral.Location = new System.Drawing.Point(0, 0);
+            this.pnlMenuLateral.Margin = new System.Windows.Forms.Padding(4);
+            this.pnlMenuLateral.Name = "pnlMenuLateral";
+            this.pnlMenuLateral.Size = new System.Drawing.Size(275, 1046);
+            this.pnlMenuLateral.TabIndex = 15;
+            // 
+            // pnlMenuItens
+            // 
+            this.pnlMenuItens.BackColor = System.Drawing.Color.White;
+            this.pnlMenuItens.Controls.Add(this.pnlGerenciaBtn);
+            this.pnlMenuItens.Controls.Add(this.lblData);
+            this.pnlMenuItens.Controls.Add(this.btnInicio);
+            this.pnlMenuItens.Controls.Add(this.lblHora);
+            this.pnlMenuItens.Controls.Add(this.btnViewCliente);
+            this.pnlMenuItens.Controls.Add(this.btnViewVenda);
+            this.pnlMenuItens.Location = new System.Drawing.Point(0, -1);
+            this.pnlMenuItens.Name = "pnlMenuItens";
+            this.pnlMenuItens.Size = new System.Drawing.Size(275, 1043);
+            this.pnlMenuItens.TabIndex = 27;
+            // 
+            // pnlGerenciaBtn
+            // 
+            this.pnlGerenciaBtn.Controls.Add(this.pnlGerencia);
+            this.pnlGerenciaBtn.Location = new System.Drawing.Point(3, 345);
+            this.pnlGerenciaBtn.Name = "pnlGerenciaBtn";
+            this.pnlGerenciaBtn.Size = new System.Drawing.Size(272, 598);
+            this.pnlGerenciaBtn.TabIndex = 1;
+            // 
             // btnInicio
             // 
             this.btnInicio.ErrorImage = null;
@@ -399,11 +541,58 @@
             this.btnInicio.Location = new System.Drawing.Point(22, 12);
             this.btnInicio.Margin = new System.Windows.Forms.Padding(4);
             this.btnInicio.Name = "btnInicio";
-            this.btnInicio.Size = new System.Drawing.Size(222, 148);
+            this.btnInicio.Size = new System.Drawing.Size(222, 115);
             this.btnInicio.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.btnInicio.TabIndex = 0;
             this.btnInicio.TabStop = false;
             this.btnInicio.Click += new System.EventHandler(this.btnInicio_Click);
+            // 
+            // lblNivelAcesso
+            // 
+            this.lblNivelAcesso.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.lblNivelAcesso.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.lblNivelAcesso.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Bold);
+            this.lblNivelAcesso.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
+            this.lblNivelAcesso.Location = new System.Drawing.Point(1239, 15);
+            this.lblNivelAcesso.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblNivelAcesso.Name = "lblNivelAcesso";
+            this.lblNivelAcesso.Size = new System.Drawing.Size(166, 33);
+            this.lblNivelAcesso.TabIndex = 21;
+            // 
+            // lblNomeFuncionario
+            // 
+            this.lblNomeFuncionario.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.lblNomeFuncionario.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.lblNomeFuncionario.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Bold);
+            this.lblNomeFuncionario.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
+            this.lblNomeFuncionario.Location = new System.Drawing.Point(986, 15);
+            this.lblNomeFuncionario.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblNomeFuncionario.Name = "lblNomeFuncionario";
+            this.lblNomeFuncionario.Size = new System.Drawing.Size(168, 33);
+            this.lblNomeFuncionario.TabIndex = 0;
+            // 
+            // timer
+            // 
+            this.timer.Enabled = true;
+            this.timer.Tick += new System.EventHandler(this.timer_Tick);
+            // 
+            // pnlTitulo
+            // 
+            this.pnlTitulo.BackColor = System.Drawing.Color.White;
+            this.pnlTitulo.Controls.Add(this.btnFechar);
+            this.pnlTitulo.Controls.Add(this.btnMinimizar);
+            this.pnlTitulo.Controls.Add(this.iconeFrmFilho);
+            this.pnlTitulo.Controls.Add(this.lblTituloFrmFilho);
+            this.pnlTitulo.Controls.Add(this.ipboxNivelAcesso);
+            this.pnlTitulo.Controls.Add(this.ipboxNomeFuncionario);
+            this.pnlTitulo.Controls.Add(this.lblNivelAcesso);
+            this.pnlTitulo.Controls.Add(this.lblNomeFuncionario);
+            this.pnlTitulo.Dock = System.Windows.Forms.DockStyle.Top;
+            this.pnlTitulo.ForeColor = System.Drawing.Color.Transparent;
+            this.pnlTitulo.Location = new System.Drawing.Point(275, 0);
+            this.pnlTitulo.Name = "pnlTitulo";
+            this.pnlTitulo.Size = new System.Drawing.Size(1565, 62);
+            this.pnlTitulo.TabIndex = 16;
             // 
             // btnFechar
             // 
@@ -452,77 +641,6 @@
             this.btnMinimizar.UseVisualStyleBackColor = true;
             this.btnMinimizar.Click += new System.EventHandler(this.btnMinimizar_Click);
             // 
-            // ttmesagem
-            // 
-            this.ttmesagem.IsBalloon = true;
-            // 
-            // btnViewVenda
-            // 
-            this.btnViewVenda.BackColor = System.Drawing.Color.White;
-            this.btnViewVenda.FlatAppearance.BorderSize = 0;
-            this.btnViewVenda.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnViewVenda.Flip = FontAwesome.Sharp.FlipOrientation.Normal;
-            this.btnViewVenda.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnViewVenda.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
-            this.errorIcone.SetIconAlignment(this.btnViewVenda, System.Windows.Forms.ErrorIconAlignment.MiddleLeft);
-            this.btnViewVenda.IconChar = FontAwesome.Sharp.IconChar.CartPlus;
-            this.btnViewVenda.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
-            this.btnViewVenda.IconSize = 32;
-            this.btnViewVenda.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnViewVenda.Location = new System.Drawing.Point(13, 228);
-            this.btnViewVenda.Margin = new System.Windows.Forms.Padding(4);
-            this.btnViewVenda.Name = "btnViewVenda";
-            this.btnViewVenda.Padding = new System.Windows.Forms.Padding(7, 0, 20, 0);
-            this.btnViewVenda.Rotation = 0D;
-            this.btnViewVenda.Size = new System.Drawing.Size(251, 57);
-            this.btnViewVenda.TabIndex = 3;
-            this.btnViewVenda.Text = "Venda";
-            this.btnViewVenda.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnViewVenda.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.btnViewVenda.UseVisualStyleBackColor = false;
-            this.btnViewVenda.Click += new System.EventHandler(this.btnViewVenda_Click);
-            // 
-            // btnViewCliente
-            // 
-            this.btnViewCliente.BackColor = System.Drawing.Color.White;
-            this.btnViewCliente.FlatAppearance.BorderSize = 0;
-            this.btnViewCliente.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnViewCliente.Flip = FontAwesome.Sharp.FlipOrientation.Normal;
-            this.btnViewCliente.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnViewCliente.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
-            this.errorIcone.SetIconAlignment(this.btnViewCliente, System.Windows.Forms.ErrorIconAlignment.MiddleLeft);
-            this.btnViewCliente.IconChar = FontAwesome.Sharp.IconChar.Users;
-            this.btnViewCliente.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
-            this.btnViewCliente.IconSize = 32;
-            this.btnViewCliente.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnViewCliente.Location = new System.Drawing.Point(13, 161);
-            this.btnViewCliente.Margin = new System.Windows.Forms.Padding(4);
-            this.btnViewCliente.Name = "btnViewCliente";
-            this.btnViewCliente.Padding = new System.Windows.Forms.Padding(7, 0, 20, 0);
-            this.btnViewCliente.Rotation = 0D;
-            this.btnViewCliente.Size = new System.Drawing.Size(251, 57);
-            this.btnViewCliente.TabIndex = 1;
-            this.btnViewCliente.Text = "Clientes";
-            this.btnViewCliente.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnViewCliente.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.btnViewCliente.UseVisualStyleBackColor = false;
-            this.btnViewCliente.Click += new System.EventHandler(this.btnViewCliente_Click);
-            // 
-            // errorIcone
-            // 
-            this.errorIcone.ContainerControl = this;
-            // 
-            // pnlView
-            // 
-            this.pnlView.BackColor = System.Drawing.Color.Gainsboro;
-            this.pnlView.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pnlView.ForeColor = System.Drawing.Color.White;
-            this.pnlView.Location = new System.Drawing.Point(275, 62);
-            this.pnlView.Margin = new System.Windows.Forms.Padding(4);
-            this.pnlView.Name = "pnlView";
-            this.pnlView.Size = new System.Drawing.Size(1565, 984);
-            this.pnlView.TabIndex = 18;
-            // 
             // iconeFrmFilho
             // 
             this.iconeFrmFilho.BackColor = System.Drawing.Color.White;
@@ -537,77 +655,6 @@
             this.iconeFrmFilho.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.iconeFrmFilho.TabIndex = 0;
             this.iconeFrmFilho.TabStop = false;
-            // 
-            // lblTituloFrmFilho
-            // 
-            this.lblTituloFrmFilho.AutoSize = true;
-            this.lblTituloFrmFilho.BackColor = System.Drawing.Color.White;
-            this.lblTituloFrmFilho.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTituloFrmFilho.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
-            this.lblTituloFrmFilho.Location = new System.Drawing.Point(75, 16);
-            this.lblTituloFrmFilho.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.lblTituloFrmFilho.Name = "lblTituloFrmFilho";
-            this.lblTituloFrmFilho.Size = new System.Drawing.Size(75, 28);
-            this.lblTituloFrmFilho.TabIndex = 1;
-            this.lblTituloFrmFilho.Text = "Início";
-            // 
-            // lblHora
-            // 
-            this.lblHora.AutoSize = true;
-            this.lblHora.Font = new System.Drawing.Font("Century Gothic", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblHora.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
-            this.lblHora.Location = new System.Drawing.Point(98, 994);
-            this.lblHora.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.lblHora.Name = "lblHora";
-            this.lblHora.Size = new System.Drawing.Size(97, 30);
-            this.lblHora.TabIndex = 0;
-            this.lblHora.Text = "Horário";
-            // 
-            // lblData
-            // 
-            this.lblData.AutoSize = true;
-            this.lblData.Font = new System.Drawing.Font("Century Gothic", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblData.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
-            this.lblData.Location = new System.Drawing.Point(41, 955);
-            this.lblData.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.lblData.Name = "lblData";
-            this.lblData.Size = new System.Drawing.Size(71, 30);
-            this.lblData.TabIndex = 1;
-            this.lblData.Text = "Data";
-            // 
-            // pnlMenuLateral
-            // 
-            this.pnlMenuLateral.BackColor = System.Drawing.Color.Gainsboro;
-            this.pnlMenuLateral.Controls.Add(this.pnlMenuItens);
-            this.pnlMenuLateral.Dock = System.Windows.Forms.DockStyle.Left;
-            this.pnlMenuLateral.ImeMode = System.Windows.Forms.ImeMode.NoControl;
-            this.pnlMenuLateral.Location = new System.Drawing.Point(0, 0);
-            this.pnlMenuLateral.Margin = new System.Windows.Forms.Padding(4);
-            this.pnlMenuLateral.Name = "pnlMenuLateral";
-            this.pnlMenuLateral.Size = new System.Drawing.Size(275, 1046);
-            this.pnlMenuLateral.TabIndex = 15;
-            // 
-            // pnlMenuItens
-            // 
-            this.pnlMenuItens.BackColor = System.Drawing.Color.White;
-            this.pnlMenuItens.Controls.Add(this.pnlGerenciaBtn);
-            this.pnlMenuItens.Controls.Add(this.lblData);
-            this.pnlMenuItens.Controls.Add(this.btnInicio);
-            this.pnlMenuItens.Controls.Add(this.lblHora);
-            this.pnlMenuItens.Controls.Add(this.btnViewCliente);
-            this.pnlMenuItens.Controls.Add(this.btnViewVenda);
-            this.pnlMenuItens.Location = new System.Drawing.Point(0, -1);
-            this.pnlMenuItens.Name = "pnlMenuItens";
-            this.pnlMenuItens.Size = new System.Drawing.Size(275, 1043);
-            this.pnlMenuItens.TabIndex = 27;
-            // 
-            // pnlGerenciaBtn
-            // 
-            this.pnlGerenciaBtn.Controls.Add(this.pnlGerencia);
-            this.pnlGerenciaBtn.Location = new System.Drawing.Point(3, 310);
-            this.pnlGerenciaBtn.Name = "pnlGerenciaBtn";
-            this.pnlGerenciaBtn.Size = new System.Drawing.Size(272, 620);
-            this.pnlGerenciaBtn.TabIndex = 1;
             // 
             // ipboxNivelAcesso
             // 
@@ -624,30 +671,6 @@
             this.ipboxNivelAcesso.TabIndex = 22;
             this.ipboxNivelAcesso.TabStop = false;
             // 
-            // lblNivelAcesso
-            // 
-            this.lblNivelAcesso.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.lblNivelAcesso.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.lblNivelAcesso.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Bold);
-            this.lblNivelAcesso.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
-            this.lblNivelAcesso.Location = new System.Drawing.Point(1239, 15);
-            this.lblNivelAcesso.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.lblNivelAcesso.Name = "lblNivelAcesso";
-            this.lblNivelAcesso.Size = new System.Drawing.Size(166, 33);
-            this.lblNivelAcesso.TabIndex = 21;
-            // 
-            // lblNomeFuncionario
-            // 
-            this.lblNomeFuncionario.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.lblNomeFuncionario.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.lblNomeFuncionario.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Bold);
-            this.lblNomeFuncionario.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
-            this.lblNomeFuncionario.Location = new System.Drawing.Point(986, 15);
-            this.lblNomeFuncionario.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.lblNomeFuncionario.Name = "lblNomeFuncionario";
-            this.lblNomeFuncionario.Size = new System.Drawing.Size(168, 33);
-            this.lblNomeFuncionario.TabIndex = 0;
-            // 
             // ipboxNomeFuncionario
             // 
             this.ipboxNomeFuncionario.BackColor = System.Drawing.Color.White;
@@ -662,29 +685,6 @@
             this.ipboxNomeFuncionario.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.ipboxNomeFuncionario.TabIndex = 0;
             this.ipboxNomeFuncionario.TabStop = false;
-            // 
-            // timer
-            // 
-            this.timer.Enabled = true;
-            this.timer.Tick += new System.EventHandler(this.timer_Tick);
-            // 
-            // pnlTitulo
-            // 
-            this.pnlTitulo.BackColor = System.Drawing.Color.White;
-            this.pnlTitulo.Controls.Add(this.btnFechar);
-            this.pnlTitulo.Controls.Add(this.btnMinimizar);
-            this.pnlTitulo.Controls.Add(this.iconeFrmFilho);
-            this.pnlTitulo.Controls.Add(this.lblTituloFrmFilho);
-            this.pnlTitulo.Controls.Add(this.ipboxNivelAcesso);
-            this.pnlTitulo.Controls.Add(this.ipboxNomeFuncionario);
-            this.pnlTitulo.Controls.Add(this.lblNivelAcesso);
-            this.pnlTitulo.Controls.Add(this.lblNomeFuncionario);
-            this.pnlTitulo.Dock = System.Windows.Forms.DockStyle.Top;
-            this.pnlTitulo.ForeColor = System.Drawing.Color.Transparent;
-            this.pnlTitulo.Location = new System.Drawing.Point(275, 0);
-            this.pnlTitulo.Name = "pnlTitulo";
-            this.pnlTitulo.Size = new System.Drawing.Size(1565, 62);
-            this.pnlTitulo.TabIndex = 16;
             // 
             // ViewMenu
             // 
@@ -702,17 +702,17 @@
             this.Text = "ViewMenu1";
             this.Load += new System.EventHandler(this.ViewMenu_Load);
             this.pnlGerencia.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.btnInicio)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.errorIcone)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.iconeFrmFilho)).EndInit();
             this.pnlMenuLateral.ResumeLayout(false);
             this.pnlMenuItens.ResumeLayout(false);
             this.pnlMenuItens.PerformLayout();
             this.pnlGerenciaBtn.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.ipboxNivelAcesso)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ipboxNomeFuncionario)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.btnInicio)).EndInit();
             this.pnlTitulo.ResumeLayout(false);
             this.pnlTitulo.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.iconeFrmFilho)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ipboxNivelAcesso)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ipboxNomeFuncionario)).EndInit();
             this.ResumeLayout(false);
 
         }

@@ -5,7 +5,7 @@ using System.Globalization;
 
 namespace Model
 {
-    public class ModelFuncionario : ModelPessoa
+    public class ModelFuncionario 
     {
 
         public int ID_Funcionario { get; set; }

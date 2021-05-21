@@ -56,7 +56,6 @@
     <Compile Include="ModelLogin.cs" />
     <Compile Include="ModelNivelAcesso.cs" />
     <Compile Include="ModelPerda.cs" />
-    <Compile Include="ModelPessoa.cs" />
     <Compile Include="ModelProduto.cs" />
     <Compile Include="ModelRelatorios.cs" />
     <Compile Include="ModelUnidadeRede.cs" />

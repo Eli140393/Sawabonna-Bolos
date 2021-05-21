@@ -122,7 +122,10 @@ namespace View
             EntitiesRelatorio obj = new EntitiesRelatorio();
             relatorios.DashboardDados(obj);
 
-            double casaDecimalCompra = Convert.ToDouble(obj.totalCompras);
+            double casaDecimalCompraKG = Convert.ToDouble(obj.totalComprasKG );
+            double casaDecimalCompraUnidades = Convert.ToDouble(obj.totalComprasUnidades);
+            double casaDecimalCompra = casaDecimalCompraKG + casaDecimalCompraUnidades;
+
             double casaDecimalVenda = Convert.ToDouble(obj.totalVendas);
 
 
